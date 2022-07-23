@@ -1,6 +1,6 @@
 # **Reading Notes**
 
->In this website: 
+>In this website:
 
 Observations and questions I have from the reading assignments for the courses included in the following table.
 | Code | Description |
@@ -30,7 +30,7 @@ Table of contents:
 
 Module  1:
 
-[Class 1](./Modules/Module%201/Class_1.md)
+[Class 1](./Modules/Module_1/Class_1.md)
 
 
 
