@@ -1,7 +1,7 @@
 
 # Props and Components
 
-Component-based architecture is focused on the breakdown of the design into discrete functional or logical components that represent well defined communication interfaces comprising methods, events, and attributes. 
+Component-based architecture is focused on the breakdown of the design into discrete functional or logical components that represent well defined communication interfaces comprising methods, events, and attributes.
 
 Reusability of components is the main goal of component-based architecture.
 A component is a reusable and self-deployable binary unit that contains the functionality and behaviors of a software element.
@@ -10,7 +10,7 @@ A component is a reusable and self-deployable binary unit that contains the func
 <br/><br/>
 ### 1- What is a “component”?
 <br/>
-A component is a well-defined, modular, and reusable capability that exports its implementation as a higher-level interface.Also, a component is a piece of software that has one or more capabilities and is designed to interact with other components. 
+A component is a well-defined, modular, and reusable capability that exports its implementation as a higher-level interface.Also, a component is a piece of software that has one or more capabilities and is designed to interact with other components.
 <br/><br/>
 
 ### 2-What are the characteristics of a component?

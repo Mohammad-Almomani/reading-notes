@@ -31,6 +31,7 @@ Table of contents:
 Module  1:
 
 [Class 1](./Modules/Module_1/Class_1.md)
+[Class 2](./Modules/Module_1/Class_2.md)
 
 
 
