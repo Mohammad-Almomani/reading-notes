@@ -30,11 +30,13 @@ Table of contents:
 
 Module  1:
 
-[Class 1](./assets/Class_1.md)
+[Class 1](./Classes/Class_1.md)
 
-[Class 2](./assets/Class_2.md)
+[Class 2](./Classes/Class_2.md)
 
-[Class 3](./assets/Class_3.md)
+[Class 3](./Classes/Class_3.md)
+
+[Class 4](./Classes/Class_4.md)
 
 
 
