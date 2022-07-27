@@ -43,7 +43,7 @@ For each piece of state in your application:
 * If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
 
-## 
+## higher-order functions
 
 
 
