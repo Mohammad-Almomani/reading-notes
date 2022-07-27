@@ -39,6 +39,8 @@ Module  1:
 [Class 4](./Classes/Class_4.md)
 
 
+[Class 5](./Classes/Class_5.md)
+
 
 
 ## ***Code 401 - Advanced Software Development***
