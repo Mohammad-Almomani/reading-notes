@@ -7,7 +7,7 @@
 
 2.  What does it mean to build a ‘static’ version of your application?
 
-    It is the easiest way is to build a version that takes your data model and renders the UI but has no interactivity. It’s best to decouple these processes because building a static version requires a lot of typing and no thinking, and adding interactivity requires a lot of thinking and not a lot of typing. We’ll see why.
+    It is the easiest way is to build a version that takes your data model and renders the UI but has no interactivity. It’s best to decouple these processes because building a static version requires a lot of typing and no thinking, and adding interactivity requires a lot of thinking and not a lot of typing.
 
 3. Once you have a static application, what do you need to add?
     
