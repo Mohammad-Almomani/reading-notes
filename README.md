@@ -28,7 +28,7 @@ Code 201 _notes_:
 
 Table of contents:
 
-Module  1:
+### Module  1:
 
 [Class 1](./Classes/Class_1.md)
 
@@ -42,6 +42,9 @@ Module  1:
 [Class 5](./Classes/Class_5.md)
 
 
+### Module 2: The Back End
+
+[Class 6](./Classes/Class_6.md)
 
 ## ***Code 401 - Advanced Software Development***
 Code 401 _notes_:
