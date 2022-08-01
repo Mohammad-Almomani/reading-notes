@@ -1,7 +1,6 @@
 # APIs
 
 
-## How I explained REST to my brother
 
 
 1. What does REST stand for?
