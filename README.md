@@ -50,6 +50,8 @@ Table of contents:
 
 [Class 8](./Classes/Class_8.md)
 
+[Class 9](./Classes/Class_9.md)
+
 ## ***Code 401 - Advanced Software Development***
 Code 401 _notes_:
 - note 1
