@@ -19,7 +19,7 @@
 
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
-     ![Image Credit: CMU](https://cdn-media-1.freecodecamp.org/images/QgR2uIk7tW0YNz0Xm8g0jAPeRFI0e4sCejsv)
+     ![](../callstackpng)
 
      Image Credit: CMU
 
