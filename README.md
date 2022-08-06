@@ -54,6 +54,10 @@ Table of contents:
 
 [Class 10](./Classes/Class_10.md)
 
+##  Module 3: Full-Stack Applications
+
+[Class 11](./Classes/Class_11.md)
+
 ## ***Code 401 - Advanced Software Development***
 Code 401 _notes_:
 - note 1
