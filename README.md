@@ -58,6 +58,8 @@ Table of contents:
 
 [Class 11](./Classes/Class_11.md)
 
+[Class 12](./Classes/Class_12.md)
+
 ## ***Code 401 - Advanced Software Development***
 Code 401 _notes_:
 - note 1
