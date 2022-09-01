@@ -70,7 +70,17 @@ Prep 401:
 
 [Prep Your Mindset](./prep401/Prep_Your_Mindset.md)
 
+[SQL BLot](./prep401/SQL_Blot.md)
+
+[Typing Practice](./prep401/Typing_Practice.md)
+
+[Git Practice](./prep401/Git_Practice.md)
+
+
 Code 401 _notes_:
+
 - note 1
+
 - note 2
+
 - note 3
