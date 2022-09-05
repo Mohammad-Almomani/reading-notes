@@ -76,6 +76,10 @@ Prep 401:
 
 [Git Practice](./prep401/Git_Practice.md)
 
+[Bash Practice](./prep401/Bash_Practice.md)
+
+[Typing Practice](./prep401/Typing_Practice.md)
+
 
 Code 401 _notes_:
 

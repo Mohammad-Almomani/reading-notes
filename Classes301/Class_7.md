@@ -33,7 +33,7 @@ If a system wants to replace something in another system, it uses an HTTP verb o
 
 7. What does PATCH do?
 
-use PATCH to do a partial update.
+use  to do a partial update.
 
 
 ## API Keys
