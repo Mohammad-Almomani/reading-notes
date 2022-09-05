@@ -83,7 +83,10 @@ Prep 401:
 
 Code 401 _notes_:
 
-- note 1
+### Module  1:
+
+[Class 02 discussion](./Classes401/Class_02.md)
+
 
 - note 2
 

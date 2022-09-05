@@ -19,18 +19,6 @@ API Doc: RESTful web APIs' inline documentation is provided by. Your source code
 
 Swagger Inspector: Test and Document Your APIs With Ease Using. It is a free cloud-based application for testing APIs and producing their accompanying OpenAPI documentation, making API validation easier.
 
-status code 400: Bad Request
-
-status code 401: Unauthorized
-
-status code 403: Forbidden
-
-status code 404: Not Found
-
-status code 405: Method Not Allowed
-
-status code 408: Request Timeout
-
 | Status Code | Response |
 | ----------- | ----------- |
 | 400 | Bad Request |
