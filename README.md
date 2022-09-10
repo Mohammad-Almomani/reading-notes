@@ -85,8 +85,9 @@ Code 401 _notes_:
 
 ### Module  1:
 
-[Class 02 discussion](./Classes401/Class_02.md)
+[Class Epxress discussion](./Classes401/Class_Express.md)
 
+[Class SQL discussion](./Classes401/Class_Sql.md)
 
 - note 2
 
