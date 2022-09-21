@@ -89,6 +89,9 @@ Code 401 _notes_:
 
 [Class SQL discussion](./Classes401/Class_Sql.md)
 
+[Class Stack and Queues discussion](./Classes401/StackQueues.md)
+
+
 - note 2
 
 - note 3
