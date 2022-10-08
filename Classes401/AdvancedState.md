@@ -18,7 +18,7 @@
 
 3. Is useState() synchronous?
 
-   Yes, it is synchronous.
+   No,  useState is an asynchronous hook
 
 ## Vocabulary Terms
 
