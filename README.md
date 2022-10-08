@@ -91,6 +91,7 @@ Code 401 _notes_:
 
 [Class Stack and Queues discussion](./Classes401/StackQueues.md)
 
+[Advanced State with Reducers](./Classes401/AdvancedState.md)
 
 - note 2
 
