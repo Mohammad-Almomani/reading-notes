@@ -6,7 +6,7 @@
 
    The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s
 
-2. What are the 7 layers of OSI M=model
+2. What are the 7 layers of OSI model
 
    - Layer 1: Physical Layer
    - Layer 2: Data Link Layer
