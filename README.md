@@ -93,6 +93,8 @@ Code 401 _notes_:
 
 [Advanced State with Reducers](./Classes401/AdvancedState.md)
 
+[Class 20 Socket.io](./Classes401/Class20_SocketBE.md)
+
 - note 2
 
 - note 3
