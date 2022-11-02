@@ -95,6 +95,8 @@ Code 401 _notes_:
 
 [Class 20 Socket.io](./Classes401/Class20_SocketBE.md)
 
+[Hash Tables](./Classes401/HashTables.md)
+
 - note 2
 
 - note 3
