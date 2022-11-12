@@ -97,6 +97,8 @@ Code 401 _notes_:
 
 [Hash Tables](./Classes401/HashTables.md)
 
+[Chakra UI](./Classes401/ChakraUI.md)
+
 - note 2
 
 - note 3
