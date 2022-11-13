@@ -2,7 +2,9 @@
 
 What is a Chakra UI?
 
-    Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. It is built on top of styled-system, a utility library that allows you to style your components quickly and easily.
+    Chakra UI is a simple, modular and accessible component library that gives you the building
+    blocks you need to build your React applications. It is built on top of styled-system,
+    a utility library that allows you to style your components quickly and easily.
 
 Is Chakra UI better than material UI?
 
@@ -27,11 +29,14 @@ Is Chakra UI better than material UI?
     a more mature and active community; and
     a level of performance that is great for large, data-driven apps.
 
-    If you need something that’s quick on its feet, Chakra UI is the best option, since it is super easy to learn and lightweight.
+    If you need something that’s quick on its feet, Chakra UI is the best option,
+    since it is super easy to learn and lightweight.
 
     If custom designs are important for your project, Chakra’s developer convenience is the more attractive option.
 
-    Material UI has many more ready-to-use UI components, so we recommend going with it for websites and apps where a unique design is not central to the app, for larger websites, and for apps that require extremely good performance and reliability.
+    Material UI has many more ready-to-use UI components, so we recommend going with it for websites
+    and apps where a unique design is not central to the app, for larger websites,
+    and for apps that require extremely good performance and reliability.
 
 How to use Chakra UI?
 
@@ -39,7 +44,8 @@ How to use Chakra UI?
 
     npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
-    After installing Chakra UI, you need to set up the ChakraProvider at the root of your application. This can be either in your index.jsx, index.tsx or App.jsx depending on the framework you use.
+    After installing Chakra UI, you need to set up the ChakraProvider at the root of your application.
+    This can be either in your index.jsx, index.tsx or App.jsx depending on the framework you use.
 
 ```js
 import * as React from "react";
