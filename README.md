@@ -99,6 +99,8 @@ Code 401 _notes_:
 
 [Chakra UI](./Classes401/ChakraUI.md)
 
+[Graph](./Classes401/Graph.md)
+
 - note 2
 
 - note 3
