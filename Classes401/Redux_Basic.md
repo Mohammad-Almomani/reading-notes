@@ -64,7 +64,9 @@ store.dispatch({ type: "counter/decremented" });
 
 ### State Management
 
-      State management is the process of managing the state of an application. The state of an application is the data that is used to render the UI. State management is important because it allows you to manage the state of your application in a predictable way. It also allows you to manage the state of your application in a way that is easy to test.
+      State management is the process of managing the state of an application. The state of an application is the data that is used to render the UI. 
+      State management is important because it allows you to manage the state of your application in a predictable way.
+       It also allows you to manage the state of your application in a way that is easy to test.
 
         * The state, the source of truth that drives our app;
         * The view, a declarative description of the UI based on the current state
