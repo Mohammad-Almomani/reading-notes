@@ -101,6 +101,8 @@ Code 401 _notes_:
 
 [Graph](./Classes401/Graph.md)
 
+[Redux Basic](./Classes401/Redux_Basic.md)
+
 - note 2
 
 - note 3
