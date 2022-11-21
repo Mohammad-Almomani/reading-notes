@@ -103,6 +103,8 @@ Code 401 _notes_:
 
 [Redux Basic](./Classes401/Redux_Basic.md)
 
+[Redux Advanced](./Classes401/Redux_Advanced.md)
+
 - note 2
 
 - note 3
